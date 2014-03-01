@@ -22,6 +22,7 @@
 		E53640D018C241750007C58D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E53640AF18C241750007C58D /* UIKit.framework */; };
 		E53640D818C241750007C58D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E53640D618C241750007C58D /* InfoPlist.strings */; };
 		E53640DA18C241750007C58D /* GAI_Parse_LectureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E53640D918C241750007C58D /* GAI_Parse_LectureTests.m */; };
+		E53640E418C244A00007C58D /* parse-library-1.2.18.zip in Resources */ = {isa = PBXBuildFile; fileRef = E53640E318C244A00007C58D /* parse-library-1.2.18.zip */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		E53640D518C241750007C58D /* GAI Parse LectureTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GAI Parse LectureTests-Info.plist"; sourceTree = "<group>"; };
 		E53640D718C241750007C58D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E53640D918C241750007C58D /* GAI_Parse_LectureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GAI_Parse_LectureTests.m; sourceTree = "<group>"; };
+		E53640E318C244A00007C58D /* parse-library-1.2.18.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "parse-library-1.2.18.zip"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		E53640AA18C241750007C58D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E53640E318C244A00007C58D /* parse-library-1.2.18.zip */,
 				E53640AB18C241750007C58D /* Foundation.framework */,
 				E53640AD18C241750007C58D /* CoreGraphics.framework */,
 				E53640AF18C241750007C58D /* UIKit.framework */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E53640C218C241750007C58D /* Main_iPad.storyboard in Resources */,
+				E53640E418C244A00007C58D /* parse-library-1.2.18.zip in Resources */,
 				E53640C718C241750007C58D /* Images.xcassets in Resources */,
 				E53640BF18C241750007C58D /* Main_iPhone.storyboard in Resources */,
 				E53640B618C241750007C58D /* InfoPlist.strings in Resources */,

@@ -14,8 +14,10 @@
 {
     // Override point for customization after application launch.
     
-    //Comment here
-    
+    // Comment here
+    /*[Parse setApplicationID:@""
+                  clientKey:@""]
+    */
     return YES;
 }
 							
